@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega328P</DEVICE>
+ <WORKING_DIR>C:\Projects\first</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Projects\first\first.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m328Pdef.inc</FILE>
+  <FILE>C:\Projects\first\Macro.inc</FILE>
+  <FILE>C:\Projects\first\Reset.asm</FILE>
+  <FILE>C:\Projects\first\Interrupts.asm</FILE>
+  <FILE>C:\Projects\first\Procedures.asm</FILE>
+  <FILE>C:\Projects\first\Interrupts_table.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Projects\first\first.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Projects\first\first.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Projects\first\first.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <CCNT><FILE>C:\Projects\first\first.asm</FILE><LINE>8</LINE></CCNT>
+  <Var1><FILE>C:\Projects\first\first.asm</FILE><LINE>10</LINE></Var1>
+  <Var2><FILE>C:\Projects\first\first.asm</FILE><LINE>11</LINE></Var2>
+  <TaskQueue><FILE>C:\Projects\first\first.asm</FILE><LINE>15</LINE></TaskQueue>
+  <Main><FILE>C:\Projects\first\first.asm</FILE><LINE>24</LINE></Main>
+  <ProcessTaskQueue><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>53</LINE></ProcessTaskQueue>
+  <Idle><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>23</LINE></Idle>
+  <Reset><FILE>C:\Projects\first\Reset.asm</FILE><LINE>3</LINE></Reset>
+  <RAM_Clean><FILE>C:\Projects\first\Reset.asm</FILE><LINE>11</LINE></RAM_Clean>
+  <USART><FILE>C:\Projects\first\Interrupts.asm</FILE><LINE>2</LINE></USART>
+  <Timer0_OV><FILE>C:\Projects\first\Interrupts.asm</FILE><LINE>5</LINE></Timer0_OV>
+  <End_timer><FILE>C:\Projects\first\Interrupts.asm</FILE><LINE>37</LINE></End_timer>
+  <TikTak><FILE>C:\Projects\first\Interrupts.asm</FILE><LINE>29</LINE></TikTak>
+  <SendTask><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>105</LINE></SendTask>
+  <TaskProcs><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>13</LINE></TaskProcs>
+  <Wait><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>29</LINE></Wait>
+  <Proc1><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>36</LINE></Proc1>
+  <Proc2><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>40</LINE></Proc2>
+  <Proc3><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>44</LINE></Proc3>
+  <M3><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>30</LINE></M3>
+  <PTQEnd><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>101</LINE></PTQEnd>
+  <PTQShift><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>85</LINE></PTQShift>
+  <ST1><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>120</LINE></ST1>
+  <ST2><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>129</LINE></ST2>
+  <STEnd><FILE>C:\Projects\first\Procedures.asm</FILE><LINE>133</LINE></STEnd>
+ </LABELS>
+</ASSEMBLER_INFO>
